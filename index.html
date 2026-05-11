@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>QuoteVerse</title>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <main class="app-container">
+
+        <div class="quote-card">
+
+            <div class="quote-header">
+                <h1>QuoteVerse ✨</h1>
+                <p>Daily inspiration for your mind</p>
+            </div>
+
+            <div id="moodBadge" class="mood-badge">
+                  Mood: Inspired ✨
+            </div>
+
+            <div class="quote-content">
+
+                <p class="quote-text" id="quote">
+                    “The best way to get started is to quit talking and begin doing.”
+                </p>
+
+                <p class="quote-author" id="author">
+                    — Walt Disney
+                </p>
+
+            </div>
+
+            <div class="category-buttons">
+
+                <button class="category-btn" data-category="motivational">
+                    Motivation
+                </button>
+
+                <button class="category-btn" data-category="success">
+                    Success
+                </button>
+
+                <button class="category-btn" data-category="love">
+                    Love
+                </button>
+
+                <button class="category-btn" data-category="life">
+                    Life
+                </button>
+
+            </div>
+
+            <div class="action-buttons">
+
+                <button id="tweetBtn" class="secondary-btn">
+                    Tweet
+                </button>
+
+                <button id="newQuoteBtn" class="primary-btn">
+                    New Quote
+                </button>
+
+                <button id="copyBtn" class="secondary-btn">
+                    Copy
+                </button>
+
+                <button id="favoriteBtn" class="secondary-btn">
+                    ❤️ Favorite
+                </button>
+
+                <button id="themeToggleBtn" class="secondary-btn">
+                    ☀️ Light Mode
+                </button>
+
+            </div>
+
+            <div class="favorites-section">
+
+                <h2>Favorite Quotes</h2>
+
+                <ul id="favoritesList"></ul>
+
+            </div>
+
+        </div>
+
+    </main>
+
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
