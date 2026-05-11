@@ -1,0 +1,72 @@
+# ✨ QuoteVerse
+
+QuoteVerse is a modern and interactive quote application built using HTML, CSS, and JavaScript.  
+It provides inspirational quotes with dynamic themes, category filtering, favorites management, and responsive UI design.
+
+---
+
+## 🚀 Features
+
+- 🎯 Random quote generation using Fetch API
+- 🌗 Dark / aesthetic theme toggle
+- ❤️ Save favorite quotes using localStorage
+- 📋 Copy quotes to clipboard
+- 🐦 Share quotes directly on Twitter
+- 🎨 Dynamic UI with glassmorphism design
+- 📱 Fully responsive for desktop and mobile devices
+- ✨ Smooth quote transition animations
+- 🧠 Mood-based quote categories
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Fetch API
+- localStorage
+- Git & GitHub
+- GitHub Pages
+
+---
+
+## 📸 Screenshots
+
+### Dark Theme
+(Add screenshot here)
+
+### Aesthetic Theme
+(Add screenshot here)
+
+### Mobile Responsive View
+(Add screenshot here)
+
+---
+
+## 🌐 Live Demo
+
+https://tichita7.github.io/QuoteVerse/
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/tichita7/QuoteVerse
+
+---
+
+## 📌 Future Improvements
+
+- User authentication
+- Personalized quote collections
+- Quote history tracking
+- AI-generated quotes
+- Firebase integration
+- Mood-based recommendations
+
+---
+
+## 👩‍💻 Author
+
+Developed by Tichita
