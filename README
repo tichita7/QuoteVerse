@@ -31,16 +31,27 @@ It provides inspirational quotes with dynamic themes, category filtering, favori
 
 ---
 
-## 📸 Screenshots
+### 🌙 Dark Theme
 
-### Dark Theme
-(Add screenshot here)
+![Dark Theme](screenshots/dark-mode.png) 
 
-### Aesthetic Theme
-(Add screenshot here)
+---
 
-### Mobile Responsive View
-(Add screenshot here)
+### 🎨 Light Theme
+
+![Aesthetic Theme](screenshots/light-mode.png)
+
+---
+
+### ❤️ Favorites Section
+
+![Favorites](screenshots/favorites.png)
+
+---
+
+### 📱 Mobile Responsive View
+
+![Mobile View](screenshots/mobile-view.png)
 
 ---
 
@@ -56,7 +67,7 @@ https://github.com/tichita7/QuoteVerse
 
 ---
 
-## 📌 Future Improvements
+<!-- ## 📌 Future Improvements
 
 - User authentication
 - Personalized quote collections
@@ -65,7 +76,7 @@ https://github.com/tichita7/QuoteVerse
 - Firebase integration
 - Mood-based recommendations
 
----
+--- -->
 
 ## 👩‍💻 Author
 

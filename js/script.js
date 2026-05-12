@@ -16,6 +16,9 @@ const categoryButtons = document.querySelectorAll(".category-btn");
 
 const moodBadge = document.getElementById("moodBadge");
 
+const clearFavoritesBtn =
+    document.getElementById("clearFavoritesBtn");
+
 const themeToggleBtn =
     document.getElementById("themeToggleBtn");
 
@@ -297,3 +300,11 @@ themeToggleBtn.addEventListener(
     "click",
     toggleTheme
 );
+
+clearFavoritesBtn.addEventListener("click", () => {
+
+    localStorage.removeItem("favoriteQuotes");
+
+    renderFavorites();
+
+});
